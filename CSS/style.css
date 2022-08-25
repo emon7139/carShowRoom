@@ -10,9 +10,12 @@
       display: block;
       height: auto;
 }
-.nav{
-   margin-left: 550px;
+.newSvg{
+   margin-right: 20px;
 }
 .svgimg{
    width: 20px;
+}
+.navbarItem a{
+   font-size: 13px;
 }
