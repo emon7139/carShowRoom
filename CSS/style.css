@@ -1,0 +1,18 @@
+
+
+.images img{
+   width: 1440px;
+   height: 550px;
+}
+.icon{
+   margin-left: 80px;
+   width: 100px;
+      display: block;
+      height: auto;
+}
+.nav{
+   margin-left: 550px;
+}
+.svgimg{
+   width: 20px;
+}
