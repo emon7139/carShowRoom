@@ -21,3 +21,10 @@
    margin-left: 10px;
    padding-right: 40px;
 }
+.text{
+   color: white;
+   background-color: rgb(106, 66, 66);
+   padding: 20px;
+   text-align: center;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
